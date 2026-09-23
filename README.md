@@ -78,5 +78,10 @@ Version 2.0.1
  * Refactoring and minor fixes.
 
 
+## Related projects by CleanTalk
+
+- [php-anticrawler](https://github.com/CleanTalk/php-anticrawler) - PHP library that blocks scrapers, SEO crawlers and bad bots by User-Agent, IP block lists and allow lists. Use it when you need to filter known bots by name rather than by a JavaScript check.
+- [php-antispam](https://github.com/CleanTalk/php-antispam) - PHP client for the CleanTalk Anti-Spam API: checks comments, registrations and form submissions.
+
 ## Contacts
 Email: welcome@cleantalk.org
